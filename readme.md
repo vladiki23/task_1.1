@@ -13,7 +13,8 @@ LICENSE: [MIT](./license.md)
 4. [git reset](./reset.md)
 5. [git diff](./diff.md)
 6. [git difftool](./difftool.md)
-7. [git rm]
+7. [git rm](./rm.md)
+8. [git mv](./mv.md)
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, 
