@@ -15,6 +15,7 @@ LICENSE: [MIT](./license.md)
 6. [git difftool](./difftool.md)
 7. [git rm](./rm.md)
 8. [git mv](./mv.md)
+9. [git branch](./branch.md)
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, 
