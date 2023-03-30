@@ -16,6 +16,7 @@ LICENSE: [MIT](./license.md)
 7. [git rm](./rm.md)
 8. [git mv](./mv.md)
 9. [git branch](./branch.md)
+10. [git checkout](./checkout.md)
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, 
